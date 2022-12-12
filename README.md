@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @molang007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 官网：www.molang007.com
+- 🌱 大陆地址：molang.xyz
+- 💞️ 大陆地址：molang007.xyz
+- 📫 官方邮箱：molang007@pm.me
 
-<!---
-molang007/molang007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
